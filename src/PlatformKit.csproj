@@ -87,6 +87,7 @@
 
     <ItemGroup>
       <Folder Include="Platforms" />
+      <Folder Include="Software\Enums" />
     </ItemGroup>
 
     <ItemGroup>
